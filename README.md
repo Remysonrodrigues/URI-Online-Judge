@@ -1,7 +1,7 @@
 # URI-Online-Judge
 Repositório para soluções de problemas no URI Online Judge.
 https://www.urionlinejudge.com.br/judge/pt/profile/337826
-#Problemas
+# Problemas
 -1001	Extremamente Básico	
 -1002	Área do Círculo	
 -1003	Soma Simples	
